@@ -5,6 +5,8 @@
 ---
 
 # svelte app
+This is a decentralized chat app like Whatsapp or telegram except its one chat room that all and any participants can chat. it is simple, yes, but Rome wasnt built in a day.
+It is HOWEVER not centrally hosted. It is a WEB3 thus is decentralized (like Richard's internet in Silicon Valley) and thus users are not at the mercy of big tech.
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
