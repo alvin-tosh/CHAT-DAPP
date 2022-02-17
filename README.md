@@ -23,7 +23,7 @@ cd svelte-app
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
 
-## Get started
+## Get started :monocle_face:
 
 Install the dependencies...
 
@@ -44,7 +44,7 @@ By default, the server will only respond to requests from localhost. To allow co
 
 If you're using [Visual Studio Code](https://code.visualstudio.com/) we recommend installing the official extension [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode). If you are using other editors you may need to install a plugin in order to get syntax highlighting and intellisense.
 
-## Building and running in production mode
+## Building and running in production :modescroll:
 
 To create an optimised version of the app:
 
@@ -55,7 +55,7 @@ npm run build
 You can run the newly built app with `npm run start`. This uses [sirv](https://github.com/lukeed/sirv), which is included in your package.json's `dependencies` so that the app will work when you deploy to platforms like [Heroku](https://heroku.com).
 
 
-## Single-page app mode
+## Single-page app mode :label:
 
 By default, sirv will only respond to requests that match files in `public`. This is to maximise compatibility with static fileservers, allowing you to deploy your app anywhere.
 
@@ -65,7 +65,7 @@ If you're building a single-page app (SPA) with multiple routes, sirv needs to b
 "start": "sirv public --single"
 ```
 
-## Using TypeScript
+## Using TypeScript :page_with_curl:
 
 This template comes with a script to set up a TypeScript development environment, you can run it immediately after cloning the template with:
 
@@ -81,7 +81,7 @@ rm scripts/setupTypeScript.js
 
 If you want to use `baseUrl` or `path` aliases within your `tsconfig`, you need to set up `@rollup/plugin-alias` to tell Rollup to resolve the aliases. For more info, see [this StackOverflow question](https://stackoverflow.com/questions/63427935/setup-tsconfig-path-in-svelte).
 
-## Deploying to the web
+## Deploying to the web :rocket:
 
 ### With [Vercel](https://vercel.com)
 
