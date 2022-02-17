@@ -8,7 +8,7 @@
 This is a decentralized chat app like Whatsapp or telegram except its one chat room that all and any participants can chat. it is simple, yes, but Rome wasnt built in a day.
 It is HOWEVER not centrally hosted. It is a WEB3 thus is decentralized (like Richard's internet in Silicon Valley season 4) and thus users are not at the mercy of big tech.
 This is a work in progress! to be expanded upon.
-Based on the DAPP @fireship.io :camera_flash: 
+Based on the DAPP by @fireship.io :camera_flash: 
 WEB3 is the future!! i hope.:sweat_smile:
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
@@ -44,7 +44,7 @@ By default, the server will only respond to requests from localhost. To allow co
 
 If you're using [Visual Studio Code](https://code.visualstudio.com/) we recommend installing the official extension [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode). If you are using other editors you may need to install a plugin in order to get syntax highlighting and intellisense.
 
-## Building and running in production :modescroll:
+## Building and running in production :moneybag:
 
 To create an optimised version of the app:
 
