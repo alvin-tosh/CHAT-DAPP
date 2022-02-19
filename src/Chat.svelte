@@ -74,7 +74,7 @@
       </main>
       <form on:submit|preventDefault={sendMessage}>
         <input type="text" placeholder="Type a message..." bind:value={newMessage} maxlength="100" />
-        <button type="submit" disabled={!newMessage}>💥</button>
+        <button type="submit" disabled={!newMessage}>🚀🚀</button>
       </form>
       {#if !canAutoScroll}
       <div class="scroll-button">

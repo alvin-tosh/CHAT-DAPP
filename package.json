@@ -18,6 +18,8 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "@dicebear/avatars": "^4.10.2",
+    "@dicebear/avatars-initials-sprites": "^4.10.2",
     "debounce": "^1.2.1",
     "gun": "^0.2020.1235",
     "lodash.debounce": "^4.0.8",
