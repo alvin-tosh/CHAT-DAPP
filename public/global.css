@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-	color: #333;
+	color: #BDB76B;
 	margin: 0;
 	padding: 8px;
 	box-sizing: border-box;
@@ -45,7 +45,7 @@ input:disabled {
 }
 
 body {
-	background-color: #282c34;
+	background-color: #CD853F;
   }
   
 .app {
@@ -76,7 +76,7 @@ header {
 	flex-direction: column;
 	justify-content: center;
 	min-height: 100vh;
-	background-color: rgb(40, 37, 53);
+	background-color: #663399;
   }
   
   main {
@@ -157,7 +157,7 @@ header {
   }
   
   label {
-	  color: white;
+	  color: #FFDEAD;
 	  margin: 0.5rem 0;
   }
   ul, li {
@@ -172,7 +172,7 @@ header {
 	padding: 10px 20px;
 	border-radius: 25px;
 	position: relative;
-	color: white;
+	color:#FFDEAD;
 	text-align: center;
   }
   
@@ -189,7 +189,7 @@ header {
   }
   
   .sent p {
-	color: white;
+	color: #FFDEAD;
 	background: #0b93f6;
 	align-self: flex-end;
 	text-align: right;
