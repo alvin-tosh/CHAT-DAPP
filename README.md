@@ -1,10 +1,10 @@
-*Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
+*Psst! — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
 *Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
 
-# svelte app :computer:
+# Svelte app :computer:
 This is a decentralized chat app like Whatsapp or telegram except its one chat room that all and any participants can chat. it is simple, yes, but Rome wasnt built in a day.
 It is HOWEVER not centrally hosted. It is a WEB3 thus is decentralized (like Richard's internet in Silicon Valley season 4) and thus users are not at the mercy of big tech.
 This is a work in progress! to be expanded upon.
